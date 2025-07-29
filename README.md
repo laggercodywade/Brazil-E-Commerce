@@ -55,11 +55,3 @@ The project uses data from the **Brazilian Olist E-commerce dataset**, including
 - Suggested strategies for each segment
 
 ---
-
-## 📎 How to Run
-
-1. Clone this repository
-2. Ensure all CSV files listed above are present in the working directory
-3. Run the Jupyter notebook:
-   ```bash
-   jupyter notebook eda-customers-segmentation-rfm-k-means.ipynb
