@@ -1,6 +1,5 @@
 # Brazil-E-Commerce
-# Save the README content to a markdown file
-readme_content = """
+
 # 📊 Customer Segmentation using RFM & K-Means
 
 ## 🧩 Project Overview
